@@ -9,6 +9,7 @@ using System.Text.Json.Serialization;
 
 namespace CarvedRockFitnessApi
 {
+
     public class Startup
     {
         public void ConfigureServices(IServiceCollection services)
